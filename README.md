@@ -11,6 +11,9 @@ Finishing a combined BS/MS at UNM — Computer Engineering and Astrophysics,
 then an MS in Electrical and Computer Engineering with a quantum information
 concentration — and continuing into a PhD in the same group.
 
+BS in Computer Engineering and Astrophysics, 2025, MS in Electrical and Computer Engineering in Quantum Information Science, 2026
+continuing with a PhD in ECE with a QIS concentration. 
+
 **Research code here:** photonic mesh simulation, single-photon-source
 device modelling, and FPGA instrumentation for single-photon detector
 readout.
